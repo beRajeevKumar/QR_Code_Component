@@ -15,18 +15,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-### Screenshot
+### Solution Screenshot
 
 ![Solution Screenshot](./design/desktop-design.jpg)
 
-### Links
+### Useful Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/QR_Code_Component.git).
+- Live Site URL: [Visit Live](https://qrcode-rajeev.netlify.app/).
 
 ## My process
 
@@ -59,7 +57,7 @@ html {
 
 I will continue to focus on improving my CSS skills and learn more about CSS Grid and Flexbox. I will also focus on learning JavaScript to make my projects more interactive.
 
-### Useful resources
+### Useful Resources
 
 - [Resource 01](https://developer.mozilla.org/en-US/docs/Learn/HTML) - This is an amazing articles which helped me finally understand HTML.
 - [Resource 02](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This is an amazing articles which helped me finally understand CSS.
@@ -78,5 +76,3 @@ I would like to thank Frontend Mentor for providing such an amazing platform to 
 
 <hr>
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned.
